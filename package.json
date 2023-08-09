@@ -35,5 +35,5 @@
     "devDependencies": {
         "gh-pages": "^5.0.0"
     },
-    "homepage": "https://fabrizio-2025.github.io/List-Todo-React/"
+    "homepage": "."
 }
