@@ -1,0 +1,58 @@
+.main-item {
+    width: 46vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+
+}
+
+.item-check {
+    width: 2.5vw;
+    height: 4.5vh;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    color: black;
+    justify-content: center;
+    margin-right: 1vw;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.item-check:hover{
+    cursor: pointer;
+}
+
+.item-check--active {
+    color: rgb(68, 243, 68);
+}
+
+.item-content {
+    width: 39vw;
+    height: 4.5vh;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1vw;
+}
+
+.item-content--complete{
+    text-decoration: line-through;
+} 
+.item-delete {
+    width: 3vw;
+    height: 4.5vh;
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.item-delete:hover {
+    cursor: pointer;
+    color: red;
+    /* transition: 0.3 ease; */
+}

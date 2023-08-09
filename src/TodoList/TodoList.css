@@ -1,0 +1,17 @@
+.main-list {
+    width: 100vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.list-container{
+    width: 50vw;
+    background-color: rgba(0, 255, 255, 0.801);
+    height: 49vh;
+    display: flex;
+    justify-content: center;
+    border-radius: 9px;
+    overflow-y: auto;
+}

@@ -1,0 +1,56 @@
+.main-form {
+    width: 25vw;
+    height: 21vh;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 255, 255, 0.801);
+    border-radius: 9px;
+}
+
+.tittle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7vh;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-area {
+    height: 7vh;
+    border: 4px;
+    resize: none;
+    font-size: 1.0rem;
+}
+
+.btn-add {
+    margin-top: 1vh;
+    width: 5vw;
+    height: 4vh;
+    font-size: 0.8rem;
+    border: 0;
+    border-radius: 9px;
+    background-color: aqua;
+}
+
+.btn-exit {
+    margin-top: 1vh;
+    width: 5vw;
+    height: 4vh;
+    font-size: 0.8rem;
+    border: 0;
+    border-radius: 9px;
+    background-color: red;
+    color: white;
+}
+
+.btn-exit:hover {
+    cursor: pointer;
+}
+
+.btn-add:hover {
+    cursor: pointer;
+}

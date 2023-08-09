@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url("/src/assets/pexels-thiago-matos-4022945.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+h2 {
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
