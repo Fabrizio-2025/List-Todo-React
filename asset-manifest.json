@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Fabrizio-2025/List-Todo-React/static/css/main.53a208f2.css",
-    "main.js": "/Fabrizio-2025/List-Todo-React/static/js/main.5aa76133.js",
-    "static/media/pexels-thiago-matos-4022945.jpg": "/Fabrizio-2025/List-Todo-React/static/media/pexels-thiago-matos-4022945.fa4d41706229ef62f9dd.jpg",
-    "index.html": "/Fabrizio-2025/List-Todo-React/index.html",
-    "main.53a208f2.css.map": "/Fabrizio-2025/List-Todo-React/static/css/main.53a208f2.css.map",
-    "main.5aa76133.js.map": "/Fabrizio-2025/List-Todo-React/static/js/main.5aa76133.js.map"
+    "main.css": "./static/css/main.1a1cbd40.css",
+    "main.js": "./static/js/main.5aa76133.js",
+    "static/media/pexels-thiago-matos-4022945.jpg": "./static/media/pexels-thiago-matos-4022945.fa4d41706229ef62f9dd.jpg",
+    "index.html": "./index.html",
+    "main.1a1cbd40.css.map": "./static/css/main.1a1cbd40.css.map",
+    "main.5aa76133.js.map": "./static/js/main.5aa76133.js.map"
   },
   "entrypoints": [
-    "static/css/main.53a208f2.css",
+    "static/css/main.1a1cbd40.css",
     "static/js/main.5aa76133.js"
   ]
 }
