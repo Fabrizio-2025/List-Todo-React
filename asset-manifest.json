@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/List-Todo-React/static/css/main.6d100743.css",
+    "main.js": "/List-Todo-React/static/js/main.5aa76133.js",
+    "static/media/pexels-thiago-matos-4022945.jpg": "/List-Todo-React/static/media/pexels-thiago-matos-4022945.fa4d41706229ef62f9dd.jpg",
+    "index.html": "/List-Todo-React/index.html",
+    "main.6d100743.css.map": "/List-Todo-React/static/css/main.6d100743.css.map",
+    "main.5aa76133.js.map": "/List-Todo-React/static/js/main.5aa76133.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d100743.css",
+    "static/js/main.5aa76133.js"
+  ]
+}
