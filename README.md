@@ -1,2 +1,2 @@
-# Repositorio de aplicacion de lista de TODO, probando React 📖✔✍
+# Aplicacion de lista de TODO, probando React 📖✔✍
 
